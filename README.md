@@ -2,8 +2,6 @@
 
 A sophisticated Retrieval-Augmented Generation (RAG) system built with n8n that enables AI chatbots to answer questions using custom knowledge bases rather than relying solely on generic web-sourced data.
 
-![Workflow Diagram](workflow-diagram.png)
-
 ## 📋 Overview
 
 This n8n workflow creates an intelligent chatbot capable of providing accurate, context-aware responses by leveraging your organization's documentation, knowledge bases, and custom content. The system combines document ingestion, vector embeddings, and large language models to deliver precise answers grounded in your specific data.
